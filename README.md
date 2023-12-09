@@ -12,6 +12,7 @@ Tornar as gincanas anuais do IFBA-campus Paulo Afonso mais dinâmicas e organiza
 ## Qual metodologia foi usada para o desenvolvimento do sistema?
 A metodologia usada foi a Scrum, sendo os Product Owners, Professores(Othon Campus, Igor Costa e Rhuan Carvalho), Scrum master, Aluno(Mateus Lucas da Silva) e Dev Teams, Alunos(CÍCERO RICARDO FARIAS DE LIMA JÚNIOR; CLARA EDUARDA HENRIQUE SIQUEIRA DE ARAÚJO; DÉBORA ANDRÉA RODRIGUES;  EDILSON GONÇALVES OLIVEIRA; GEOVANA MICKAELA CAMPOS AMORIM; GUSTAVO RAMON GOMES SANDES; LIBILLY BENTO DOS SANTOS; LUCAS DANIEL SANTOS BEZERRA; MARCELO ALVES FEITOZA; MATEUS LUCAS DA SILVA; MAYAN CARDOSO DE BRITO).
  
+![unknown](https://github.com/MateusLucasDaSilva/ProjetoGincanaBackend/assets/101568163/bec3558c-e82d-4f25-9395-835cc1e863f5)
 
 ## Quais linguagens e tecnologias foram usadas ?
 
